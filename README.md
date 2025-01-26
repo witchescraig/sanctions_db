@@ -25,13 +25,13 @@ The repository consists of the following files:
 Below are three example plots generated from the aggregated sanctions data:
 
 ### Plot 1: Example Visualization
-![Plot 1: Example Visualization](main/plot_img/sanctions_plot_1.png)
+![Plot 1: Example Visualization](plot_img/sanctions_plot_1.png)
 *This plot shows the count of each sanctioned subject type for each sanctioning body.*
 
 ### Plot 2: Example Visualization
-![Plot 2: Example Visualization](main/plot_img/sanctions_plot_2.png)
-*This is a mixed bar and trend plot.* 
-*The bar plot: for each sanctioning body, cumulative sanctions per year.* 
+![Plot 2: Example Visualization](plot_img/sanctions_plot_2.png)
+*This is a mixed bar and trend plot.*  
+*The bar plot: for each sanctioning body, cumulative sanctions per year.*  
 *The trend plot: for each sanctioning body, new issued sanctions per year.*
 
 
