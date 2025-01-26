@@ -7,7 +7,7 @@ def replace_blanks(row):
     return row['Entity_DesignationDate']
 
 # this can be used if you wanna sort of standardize the aliases
-def rimuovi_caratteri_speciali(df, nome_colonna):
+def remove_special_characters(df, nome_colonna):
     df[nome_colonna] = df[nome_colonna].apply(lambda x: re.sub(r'[^\w\s]', '', x))
     return df
 
